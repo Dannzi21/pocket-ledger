@@ -6,7 +6,8 @@
   "description": "A personal budget dashboard with exact currency arithmetic.",
   "scripts": {
     "start": "node server.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "build": "node build.mjs"
   },
   "engines": {
     "node": ">=22"
