@@ -1,0 +1,14 @@
+{
+  "name": "pocket-ledger",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A personal budget dashboard with exact currency arithmetic.",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
